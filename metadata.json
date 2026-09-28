@@ -1,0 +1,6 @@
+{
+  "name": "EstatePay",
+  "description": "Property installment payment tracking, client ledger, plot schedules, vouchers and collection analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
